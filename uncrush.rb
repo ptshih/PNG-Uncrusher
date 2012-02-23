@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 files = Dir.glob("*.png")
 
 puts "Creating directory: uncrushed"
